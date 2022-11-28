@@ -15,10 +15,14 @@ python main.py
 ```
 
 ### install pymongo
+```
 pip install pymongo
+```
+```
 pip install pymongo[srv]
+```
 
-To download your dataset
+# To download your dataset
 
 ```
 wget https://raw.githubusercontent.com/avnyadav/sensor-fault-detection/main/aps_failure_training_set1.csv
